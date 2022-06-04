@@ -7,8 +7,8 @@
   * Return: Always 0 (success)
  */
 int main(void)
-{       int n, m;
-	
+{      
+       	int n, m;
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
 	m = n % 10;
