@@ -6,6 +6,7 @@
  */
 void print_rev(char *s)
 {
+	*s = "Holberton";
 	int len = 0, index;
 
 	while (s[index++])
