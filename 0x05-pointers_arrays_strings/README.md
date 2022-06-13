@@ -1,0 +1,1 @@
+poiners arrays strings
