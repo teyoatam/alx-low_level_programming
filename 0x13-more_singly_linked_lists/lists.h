@@ -35,8 +35,3 @@ size_t free_listint_safe(listint_t **h);
 listint_t *find_listint_loop(listint_t *head);
 
 #endif
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-P
